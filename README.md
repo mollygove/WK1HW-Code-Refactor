@@ -9,15 +9,15 @@ We have updated the code by refacorting what was already written.
 
 ## Installation
 
-Webpage meets accessibility standards.
-Source code is viewable.
-HTML elements are semantic.
-HTML elements are structured.
-Elements follow a l.ogical structure independent of styling and positioning.
-Icon and image elements are viewable.
-Alt attributes are accessable..
-Heading attributes are viewable and fall in sequential order.Title element is viewable.
-Title is concise, descriptive.
+1. Webpage meets accessibility standards.
+2. Source code is viewable.
+3. HTML elements are semantic.
+4. HTML elements are structured.
+5. Elements follow a l.ogical structure independent of styling and positioning.
+6. Icon and image elements are viewable.
+7. Alt attributes are accessable..
+8. Heading attributes are viewable and fall in sequential order.9. Title element is viewable.
+10. Title is concise, descriptive.
 
 ## Usage
 
