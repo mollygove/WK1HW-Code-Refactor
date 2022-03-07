@@ -26,6 +26,11 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
+https://mollygove.github.io/WK1HW-Code-Refactor/
+
+https://github.com/mollygove/WK1HW-Code-Refactor/
+
+
 https://github.com/mollygove/WK1HW-Code-Refactor/tree/main/assets/images#:~:text=main-,WK1HW%2DCode%2DRefactor,/images/,-Go%20to%20file
 
     ```md
@@ -35,6 +40,8 @@ https://github.com/mollygove/WK1HW-Code-Refactor/tree/main/assets/images#:~:text
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
+
+Collaborated with https://github.com/aalink and 
 
 https://www.w3schools.com/css/css_comments.asp
 
