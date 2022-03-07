@@ -4,7 +4,7 @@
   margin: 0;
 }
 
-/* header */
+/* header styling */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -19,7 +19,7 @@ header h1 {
 }
 
 header h1 .seo {
-  color: #d9dcd6;
+  color: #d9dcd6; 
 }
 
 header nav {
@@ -45,7 +45,7 @@ a {
   display: inline;
 }
 
-/* hero */
+/* This is the large Image before the content */
 .hero {
   height: 800px;
   width: 100%;
@@ -72,7 +72,7 @@ a {
   margin-left: 20px;
 }
 
-/* aside */
+/* The is styling for the aside block */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -132,7 +132,7 @@ a {
   max-width: 150px;
 }
 
-/* articles */
+/* This specifies style for the 3 articles */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -186,7 +186,7 @@ a {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/* footer */
+/* footer styling */
 .footer {
   padding: 30px;
   clear: both;
