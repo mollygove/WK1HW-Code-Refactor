@@ -18,8 +18,7 @@ The Goal was to keep the page the same while:
 9. Title element is viewable.
 10. Title is concise, descriptive.
 
-<img rel="assets\images\01-html-css-git-homework-demo.png" alt="Horiseon web page" 
-style="max-width: 100%;">
+![The Horiseon webpage](./assets/images/01-html-css-git-homework-demo.png)
 
 The live page can be launched here: https://mollygove.github.io/WK1HW-Code-Refactor/
 
