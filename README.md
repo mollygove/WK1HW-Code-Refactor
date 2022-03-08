@@ -21,18 +21,13 @@ The Goal was to keep the page the same while:
 <img rel="assets\images\01-html-css-git-homework-demo.png" alt="Horiseon web page" 
 style="max-width: 100%;">
 
-https://github.com/mollygove/WK1HW-Code-Refactor
+The live page can be launched here: https://mollygove.github.io/WK1HW-Code-Refactor/
 
-https://mollygove.github.io/WK1HW-Code-Refactor/
+My github repository is: https://github.com/mollygove/WK1HW-Code-Refactor
 
-https://github.com/mollygove/WK1HW-Code-Refactor/
+I colaborated with: https://github.com/aalink and Oscar Salgado.
 
-
-https://github.com/mollygove/WK1HW-Code-Refactor/tree/main/assets/images#:~:text=main-,WK1HW%2DCode%2DRefactor,/images/,-Go%20to%20file
-
-## Credits
-
-I colaborated with: https://github.com/aalink and 
+I researched issues and how-to's using:
 
 https://www.w3schools.com/css/css_comments.asp
 
@@ -43,6 +38,7 @@ https://www.w3schools.com/html/html_elements.asp
 https://www.w3schools.com/html/
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
 
 ## License
 
