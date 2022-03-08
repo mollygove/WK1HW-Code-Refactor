@@ -1,14 +1,12 @@
 # WK1HW-Code-Refactor
-## Description
 
 We have updated the code by refacorting what was already written. 
 
-- I have elimated most of the divs and replaced them 
-- This project was enacted to solve accessability standards
-- I have a better understanding how to read someone else code and how difficult it can be without comments or semantic HTML. 
+- I have elimated most of the divs and replaced them.
+- This project was enacted to solve accessability standards.
+- I have a better understanding how to read someone else's code and how difficult it can be without comments or semantic HTML. 
 
-## Installation
-
+The Goal was to keep the page the same while:
 1. Webpage meets accessibility standards.
 2. Source code is viewable.
 3. HTML elements are semantic.
@@ -20,11 +18,10 @@ We have updated the code by refacorting what was already written.
 9. Title element is viewable.
 10. Title is concise, descriptive.
 
-## Usage
+<img rel="assets\images\01-html-css-git-homework-demo.png" alt="Horiseon web page" 
+style="max-width: 100%;">
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+https://github.com/mollygove/WK1HW-Code-Refactor
 
 https://mollygove.github.io/WK1HW-Code-Refactor/
 
@@ -33,15 +30,9 @@ https://github.com/mollygove/WK1HW-Code-Refactor/
 
 https://github.com/mollygove/WK1HW-Code-Refactor/tree/main/assets/images#:~:text=main-,WK1HW%2DCode%2DRefactor,/images/,-Go%20to%20file
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-Collaborated with https://github.com/aalink and 
+I colaborated with: https://github.com/aalink and 
 
 https://www.w3schools.com/css/css_comments.asp
 
